@@ -82,9 +82,4 @@ streamlit run frontend/ui.py
 ├── docker-compose.yml   # Orchestration
 ├── requirements.txt     # Dependencies
 └── README.md
-
-```
-# 3. Push to GitHub
-git push
-
-```
+'''
