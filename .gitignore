@@ -1,0 +1,16 @@
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment (Very important to ignore!)
+venv/
+.env
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
